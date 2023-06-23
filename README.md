@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Hello everyone I'm Vardhan currently a 4th year ECE student at PES <br>University .  <br>🔭 I’m currently working on <br>                 * Creation of Standard cell library for subthreshold voltages<br>                 * Co-operative sensing for Cognitive Radio using fuzzy logic<br>🌱 I’m currently learning and exploring field of VLSI and wish to purse a career in it !!<br><br>😊 Here is a link to from LinkedIn : https://www.linkedin.com/in/vardhansuroshi/<br>📄 Do check out my resume (incomplete) : //link<br><br>⚡ Fun fact : I consider of myself as a jack of all trader but master of non ,<br>but often better than master of some !! <br><br><br> <br><br> <br> <br>               <br><br>
+🔥 Hello everyone I'm Vardhan currently a 4th year ECE student at PES <br>University .  <br>🔭 I’m currently working on <br>                 * Creation of Standard cell library for subthreshold voltages<br>                 * Co-operative sensing for Cognitive Radio using fuzzy logic<br>🌱 I’m currently learning and exploring field of VLSI and wish to purse a career in it !!<br><br>📄 Do check out my resume (incomplete) : //link<br><br>⚡ Fun fact : I consider of myself as a jack of all trader but master of non ,<br>but often better than master of some !! <br><br><br> 
 
 
 ## 🌐 Socials:
