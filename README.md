@@ -1,6 +1,8 @@
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" height="350" width="95%" align="center">
 
+<br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&width=435&lines=Namaste!!!+Welcome+to+my+GitHub+Page+.+.+.)](https://git.io/typing-svg)
 
