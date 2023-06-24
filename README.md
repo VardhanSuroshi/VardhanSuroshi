@@ -1,12 +1,24 @@
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&width=435&lines=Namaste!!!+Welcome+to+my+GitHub+Page+.+.+.)](https://git.io/typing-svg)
+
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=VardhanSuroshi&icon=1&color=4" alt="Visit Counter">
+    </a>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 
 # 💫 About Me:
 🔥 Hello everyone I'm Vardhan currently a 4th year ECE student at PES <br>University .  <br>🔭 I’m currently working on <br>                 * Creation of Standard cell library for subthreshold voltages<br>                 * Co-operative sensing for Cognitive Radio using fuzzy logic<br>🌱 I’m currently learning and exploring field of VLSI and wish to purse a career in it !!<br><br>📄 Do check out my resume (incomplete) : //link<br><br>⚡ Fun fact : I consider of myself as a jack of all trader but master of non ,<br>but often better than master of some !! <br><br><br> 
 
 
 # 🌐 Socials:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vardhansuroshi/) 
 
@@ -30,5 +42,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VardhanSuroshi&icon=1&color=4)](https://visitcount.itsvg.in)
 
