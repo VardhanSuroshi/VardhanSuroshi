@@ -4,7 +4,11 @@
 <br>
 <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&pause=1000&width=435&lines=Namaste!!!+Welcome+to+my+GitHub+Page+.+.+.)](https://git.io/typing-svg)
+
 
 
 <div style="display: flex; justify-content: center;" align="center">
