@@ -1,5 +1,11 @@
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" height="350" width="95%" align="center">
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/VardhanSuroshi/assets/132068498/0f55408f-d3c3-40ad-a305-99fc703a3f2b" alt="Image" width="1000" height="300">
+</p>
+    
+
+
 
 <br>
 <br>
@@ -21,7 +27,7 @@
 
 
 
- # 💫 About Me:
+# 💫 About Me:
 
 <img src="https://i.pinimg.com/originals/c4/b1/99/c4b19969def51164ea4ad9a290a217bf.gif" align="right" alt="Coding" width="400" height="350"/>
 
@@ -29,16 +35,27 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 
 <a href="https://linkedin.com/in/www.linkedin.com/in/vardhansuroshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vardhansuroshi" height="30" width="40" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-# 💻 Languages nd tools:
+## 💻 Languages and tools:
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+    &nbsp;&nbsp;
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    &nbsp;&nbsp;
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+    &nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -58,15 +75,3 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VardhanSuroshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-
