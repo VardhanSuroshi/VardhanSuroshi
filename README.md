@@ -1,9 +1,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/VardhanSuroshi/VardhanSuroshi/assets/132068498/0f55408f-d3c3-40ad-a305-99fc703a3f2b" alt="Image" width="1000" height="300">
+  <img src="https://github.com/VardhanSuroshi/VardhanSuroshi/assets/132068498/0bf88d43-3304-4c92-8879-8b23da56db4f" alt="Image" width="1000" height="300">
 </p>
-    
+
+
 
 
 
