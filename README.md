@@ -32,10 +32,9 @@
 <img src="https://i.pinimg.com/originals/c4/b1/99/c4b19969def51164ea4ad9a290a217bf.gif" align="right" alt="Coding" width="400" height="350"/>
 
 🔥 Hello everyone I'm Vardhan currently a 4th year ECE student at PES <br>University. <br> <br> **🔭 Current Projects:** <br> 💡 Working on the designing of a Standard Cell Library for subthreshold voltages<br> <br>
-🌐 Exploring Co-operative Sensing for Cognitive Radio using fuzzy logic.<br> <br> **🌱 Learning Journey:**
-I am passionate about the field of VLSI <br>I aspire to build a rewarding career in it. <br><br>**📄 Resume:**
+**🌱 Learning Journey:**I am passionate about the field of VLSI <br>I aspire to build a rewarding career in it. <br><br>**📄 Resume:**
 Feel free to check out my resume (work in progress): Resume Link<br><br>**⚡ Fun Fact:**
-I consider myself a "Jack of all trades, but a master of none, but often better than master some"  <br><br><br> 
+I consider myself a "Jack of all trades, but a master of none, but often better than master  some"  <br><br><br> 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
