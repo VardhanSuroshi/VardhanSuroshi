@@ -81,6 +81,7 @@ This project involves the designing of a 4X4 (16-bit) SRAM Memory Array and peri
 Also do check out my, "not so cool" projects [here](https://github.com/VardhanSuroshi?tab=repositories) 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=VardhanSuroshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
