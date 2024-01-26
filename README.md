@@ -62,20 +62,24 @@
 
 ### 1. [VLSI ASIC Design Flow](https://github.com/VardhanSuroshi/VLSI-ASIC-Design-Flow)
 
-Ever wanted to dive deep into the magical world of VLSI design? Well, you're in luck! This repository is dedicated to VLSI ASIC Design Flow using open-source tools! Here, we embark on a journey that starts with specifications, RTL DV, Synthesis, Physical Design, Signoff and Finally Tape-It-Out
+- Ever wanted to dive deep into the magical world of VLSI design? Well, you're in luck! This repository is dedicated to VLSI ASIC Design Flow using open-source tools! 
+- Here, we embark on a journey that starts with specifications, RTL DV, Synthesis, Physical Design, Signoff and Finally Tape-It-Out
 
 
 ### 2. [VLSI Physical Design](https://github.com/VardhanSuroshi/VLSI-Physical-Design-Flow)
 
-This project offers an immersive tutorial experienced within the context of the Advanced Physical Design. This repo is the continuity of VLSI ASIC Design Flow. Armed with nothing but my trusty keyboard and a lot of tea. In this adventure, we'll explore Opensource ASIC Design tool OpenLANE and emerge victorious!
+- This project offers an immersive tutorial experienced within the context of the Advanced Physical Design. This repo is the continuity of VLSI ASIC Design Flow.
+- Armed with nothing but my trusty keyboard and a lot of tea. In this adventure, we'll explore Opensource ASIC Design tool OpenLANE and emerge victorious!
 
 ### 3. [16-bit SRAM using Cadence Tool-chain](https://github.com/VardhanSuroshi/Memory-Design-And-Testing)
 
-This project involves the designing of a 4X4 (16-bit) SRAM Memory Array and peripheral logics using Cadence Virtuoso. It's like playing with LEGOs, but way cooler😎 and with a lot more frustration!
+- This project involves the designing of a 4X4 (16-bit) SRAM Memory Array and peripheral logics using Cadence Virtuoso.
+- It's like playing with LEGOs, but way cooler😎 and with a lot more frustration!
 
 ### 4. प्रयास (prayaas)
 
-  प्रयास is 32-bit RISC-V I-type processor! {Work in progress } Join me on a ride designing, writing coding, debugging, and reaching existential crises. Will it work? Who knows! But hey, it's the journey that counts, right?
+  - प्रयास is 32-bit RISC-V I-type processor! {Work in progress } Join me on a ride designing, writing coding, debugging, and reaching existential crises.
+  - Will it work? Who knows! But hey, it's the journey that counts, right?
 
 
 Also do check out my, "not so cool" projects [here](https://github.com/VardhanSuroshi?tab=repositories) 
