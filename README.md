@@ -73,6 +73,10 @@ This project offers an immersive tutorial experienced within the context of the 
 
 This project involves the designing of a 4X4 (16-bit) SRAM Memory Array and peripheral logics using Cadence Virtuoso. It's like playing with LEGOs, but way cooler😎 and with a lot more frustration!
 
+### 4. प्रयास (prayaas)
+
+  प्रयास is 32-bit RISC-V I-type processor! {Work in progress } Join me on a ride designing, writing coding, debugging, and reaching existential crises. Will it work? Who knows! But hey, it's the journey that counts, right?
+
 
 Also do check out my, "not so cool" projects [here](https://github.com/VardhanSuroshi?tab=repositories) 
 
