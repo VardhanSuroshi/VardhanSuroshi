@@ -26,8 +26,11 @@
  **I'm that guy who finds joy in VLSI and thinks digital design is cooler than a <some_adjective>!! I'm basically a digital design enthusiast, turning 1s and 0s into magic spells**
 
 ## You can Reach me at:
-
+<p align="center">
+    
 <a href="https://linkedin.com/in/www.linkedin.com/in/vardhansuroshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vardhansuroshi" height="30" width="40" /></a>
+
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -69,16 +72,16 @@
 ### 2. [VLSI Physical Design](https://github.com/VardhanSuroshi/VLSI-Physical-Design-Flow)
 
 - This project offers an immersive tutorial experienced within the context of the Advanced Physical Design. This repo is the continuity of VLSI ASIC Design Flow.
-- Armed with nothing but my trusty keyboard and a lot of tea. In this adventure, we'll explore Opensource ASIC Design tool OpenLANE and emerge victorious!
+- Armed with nothing but my trusty keyboard and a lot of tea. In this adventure, we'll explore the Opensource ASIC Design tool OpenLANE and emerge victorious!
 
 ### 3. [16-bit SRAM using Cadence Tool-chain](https://github.com/VardhanSuroshi/Memory-Design-And-Testing)
 
 - This project involves the designing of a 4X4 (16-bit) SRAM Memory Array and peripheral logics using Cadence Virtuoso.
 - It's like playing with LEGOs, but way cooler😎 and with a lot more frustration!
 
-### 4. प्रयास (prayaas)
+### 4. प्रयास (Prayaas)
 
-  - प्रयास is 32-bit RISC-V I-type processor! {Work in progress } Join me on a ride designing, writing coding, debugging, and reaching existential crises.
+  - प्रयास is a 32-bit RISC-V I-type processor! {Work in progress } Currently on a ride designing, writing coding, debugging, and reaching existential crises.
   - Will it work? Who knows! But hey, it's the journey that counts, right?
 
 
